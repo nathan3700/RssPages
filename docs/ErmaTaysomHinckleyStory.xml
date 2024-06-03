@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://nathan3700.github.io/RssPages/ErmaTaysomHinckleyStory.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Erma Taysom Hinckley Story</title>
     <link>https://nathan3700.github.io/RssPages</link>
     <description>My Story--Jessie Erma Taysom Hinckley</description>
     <language>en-us</language>
-    <itunes:explicit>No</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:category text="History"/>
-
+    <itunes:owner>
+      <itunes:name>Nathan Peirce</itunes:name>
+      <itunes:email>no-reply@no-reply.com</itunes:email>
+    </itunes:owner>
     <item>
       <title>Chapter 1: Beginnings </title>
       <!-- 
@@ -17,7 +21,7 @@
         https://drive.google.com/uc?export=download&id=14-xsw0sr_-2Up08-eUMOlCdxSS_vFm9_
       -->
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=14-xsw0sr_-2Up08-eUMOlCdxSS_vFm9_" length="30400000" type="audio/mpeg"/>
-      <guid>DIRECT_DOWNLOAD_LINK</guid>
+      <guid>https://drive.google.com/uc?export=download&amp;id=14-xsw0sr_-2Up08-eUMOlCdxSS_vFm9_</guid>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       <description>Afton, Wyoming -- Star Valley -- ancestors -- childhood </description>
     </item>
