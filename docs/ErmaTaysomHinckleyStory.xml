@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Erma Taysom Hinckley Story</title>
-    <link>http://tbd.com</link>
+    <link>https://nathan3700.github.io/RssPages</link>
     <description>My Story--Jessie Erma Taysom Hinckley</description>
     <language>en-us</language>
     <itunes:explicit>No</itunes:explicit>
@@ -16,7 +16,7 @@
         to
         https://drive.google.com/uc?export=download&id=14-xsw0sr_-2Up08-eUMOlCdxSS_vFm9_
       -->
-      <enclosure url="https://drive.google.com/uc?export=download&id=14-xsw0sr_-2Up08-eUMOlCdxSS_vFm9_" length="30400000" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14-xsw0sr_-2Up08-eUMOlCdxSS_vFm9_" length="30400000" type="audio/mpeg"/>
       <guid>DIRECT_DOWNLOAD_LINK</guid>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       <description>Afton, Wyoming -- Star Valley -- ancestors -- childhood </description>
