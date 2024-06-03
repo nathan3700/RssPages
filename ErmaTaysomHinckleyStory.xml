@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Erma Taysom Hinckley Story</title>
+    <link>http://tbd.com</link>
+    <description>My Story--Jessie Erma Taysom Hinckley</description>
+    <language>en-us</language>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:category text="History"/>
+
+    <item>
+      <title>Chapter 1: Beginnings </title>
+      <!-- 
+        Convert
+        https://drive.google.com/file/d/14-xsw0sr_-2Up08-eUMOlCdxSS_vFm9_/view?usp=sharing
+        to
+        https://drive.google.com/uc?export=download&id=14-xsw0sr_-2Up08-eUMOlCdxSS_vFm9_
+      -->
+      <enclosure url="https://drive.google.com/uc?export=download&id=14-xsw0sr_-2Up08-eUMOlCdxSS_vFm9_" length="30400000" type="audio/mpeg"/>
+      <guid>DIRECT_DOWNLOAD_LINK</guid>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <description>Afton, Wyoming -- Star Valley -- ancestors -- childhood </description>
+    </item>
+
+    <!-- Repeat <item> for each episode -->
+  </channel>
+</rss>
